@@ -1,4 +1,4 @@
-##Game Difficulty Adjuster (Machine Learning Project)
+## Game Difficulty Adjuster (Machine Learning Project)
 
 This project demonstrates the use of machine learning techniques for adaptive game difficulty adjustment based on player behavior analysis.
 
