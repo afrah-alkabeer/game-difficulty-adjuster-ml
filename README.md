@@ -1,3 +1,5 @@
+Status: Completed (Academic Project)
+
 Game Difficulty Adjuster (Machine Learning Project)
 
 This project develops a machine learning system to dynamically adjust puzzle game difficulty based on player behavior.
