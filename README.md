@@ -1,4 +1,4 @@
-"}
+
 # 🎮 Game Difficulty Adjuster (Machine Learning-Based DDA System)
 
 ## 📖 Overview
