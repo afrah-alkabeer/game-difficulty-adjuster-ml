@@ -1,14 +1,14 @@
+"}
+# 🎮 Game Difficulty Adjuster (Machine Learning-Based DDA System)
 
-# 🎮 Game Difficulty Adjuster (ML-Based DDA System)
-
-##  Overview
+## 📖 Overview
 This project presents a machine learning-based Dynamic Difficulty Adjustment (DDA) system designed for puzzle games. The goal is to personalize the gameplay experience by adapting difficulty levels in real-time based on player performance and behavioral patterns.
 
 A synthetic dataset of 30,000 gameplay records was generated to simulate realistic player behavior. The system combines unsupervised learning (K-Means clustering) and supervised learning (Random Forest classification) to model player skills and predict the optimal difficulty level.
 
 ---
 
-##  Objectives
+## 🎯 Objectives
 - Design an adaptive difficulty system for puzzle games  
 - Model player behavior using gameplay metrics  
 - Classify players into skill levels  
@@ -17,7 +17,7 @@ A synthetic dataset of 30,000 gameplay records was generated to simulate realist
 
 ---
 
-## Methodology
+## 🧠 Methodology
 
 ### 1. Synthetic Data Generation
 - Created a dataset of 30,000 simulated gameplay records  
@@ -46,7 +46,7 @@ A synthetic dataset of 30,000 gameplay records was generated to simulate realist
 
 ---
 
-##  Results
+## 📊 Results
 - Accuracy: 98.5%  
 - Balanced performance across all classes (F1-score ≈ 0.96+)  
 - Improved success rate after DDA  
@@ -55,7 +55,7 @@ A synthetic dataset of 30,000 gameplay records was generated to simulate realist
 
 ---
 
-##  Technologies Used
+## ⚙️ Technologies Used
 - Python  
 - Scikit-learn  
 - Pandas  
@@ -64,7 +64,7 @@ A synthetic dataset of 30,000 gameplay records was generated to simulate realist
 
 ---
 
-##  Key Features
+## 🚀 Key Features
 - Combines clustering + classification  
 - Handles both short-term and long-term player behavior  
 - Interpretable model (Random Forest feature importance)  
@@ -73,7 +73,7 @@ A synthetic dataset of 30,000 gameplay records was generated to simulate realist
 
 ---
 
-##  Problem Solved
+## 🔍 Problem Solved
 Traditional games use static difficulty, which leads to:
 - Player frustration (too hard)  
 - Player boredom (too easy)  
@@ -82,7 +82,7 @@ This project solves this by dynamically adjusting difficulty based on player per
 
 ---
 
-## Future Work
+## 📈 Future Work
 - Use real player data instead of synthetic data  
 - Implement real-time difficulty adjustment  
 - Explore reinforcement learning approaches  
@@ -90,6 +90,5 @@ This project solves this by dynamically adjusting difficulty based on player per
 
 ---
 
-##  Conclusion
+## 📌 Conclusion
 The proposed system successfully demonstrates how machine learning can be used to create a personalized and balanced gaming experience. By combining clustering and classification, the model adapts difficulty effectively and improves overall player engagement.
-
