@@ -1,5 +1,5 @@
 
-# 🎮 Game Difficulty Adjuster (Machine Learning-Based DDA System)
+# 🎮 Game Difficulty Adjuster (ML-Based DDA System)
 
 ##  Overview
 This project presents a machine learning-based Dynamic Difficulty Adjustment (DDA) system designed for puzzle games. The goal is to personalize the gameplay experience by adapting difficulty levels in real-time based on player performance and behavioral patterns.
